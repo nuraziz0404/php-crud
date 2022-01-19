@@ -4,7 +4,7 @@ echo '<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/
 echo "<div class='container'>";
 echo "<div class='m-2'>";
 echo "<a href='/' class='btn btn-primary float float-right'  >Back</a>";
-echo "<h1>Create new data</h1>";
+echo "<h1>Create new berita</h1>";
 echo "</div>";
 echo "<div class='form'>";
 echo "<form action='store.php' method='post' enctype='application/x-www-form-urlencoded'>";
