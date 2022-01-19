@@ -1,5 +1,6 @@
 ## Persiapan:
 `database server`
+
 `masuk ke folder www atau htdocs`
 
 ## Cara Pakai:
