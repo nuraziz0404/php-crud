@@ -1,5 +1,5 @@
 old
 vendor
-cache
+cache/**
 !cache/cache
 composer.lock

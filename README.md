@@ -8,6 +8,7 @@
 ```
 git clone https://github.com/nuraziz0404/php-crud
 cd php-crud
+composer install
 mysql -u <user> -p<pass> <database_name> < db.sql
 ```
 
